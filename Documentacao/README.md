@@ -5,4 +5,4 @@
  - Fluxograma do Software
  - Release Notes
  - Documentação de requisitos, arquiteturas, frameworks utilizados, entre outros
- - Modelo do nosso Banco de Dados
+ - Modelo do nosso Banco de Dados 
